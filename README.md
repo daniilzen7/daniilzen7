@@ -1,7 +1,7 @@
 # Hi there, I'm Daniil ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### ITMO second year student
+### About me
 
-- 🔭 I’m currently working on ITMO
+- 🔭 ITMO second year student
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilzen7)](https://github.com/daniilzen7/github-readme-stats)
 
