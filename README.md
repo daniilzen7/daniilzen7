@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there, I'm Daniil ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### ITMO second year student
 
 - 🔭 I’m currently working on ITMO
 
