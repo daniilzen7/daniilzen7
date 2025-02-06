@@ -2,7 +2,7 @@
 ### ⭐️ About me 
 
 - 🔭 ITMO second year student
-- 🌱 I’m currently learning Frontend and Backend
+- 🌱 I’m currently learning Data Science and Machine Learning
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilzen7)](https://github.com/daniilzen7/github-readme-stats)
 
